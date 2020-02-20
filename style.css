@@ -30,7 +30,7 @@
 }
 
 .Main {
-    margin-top: 50px;
+    margin-top: 70px;
     padding: 30px;
     max-width: 1440px;
     width: 100%;
@@ -41,13 +41,13 @@
 body {
     box-sizing: border-box;
     margin: 0px;
-background-image: url("RZ5TBtD.jpg");
-background-repeat: no-repeat;
-background-size: cover;
-color: black;
-font-family: 'Roboto', sans-serif;
-font-size: 14pt;
-text-size-adjust: 300%;
+    background-image: url("RZ5TBtD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14pt;
+    text-size-adjust: 300%;
 }
 
 #googlemap {
