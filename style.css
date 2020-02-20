@@ -1,0 +1,64 @@
+.Header {
+    background-color: rgb(200, 200, 200, 50%);
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.Portfo {
+    font-size: large;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+.Footer {
+    background-color: rgb(200, 200, 200, 50%);
+    text-align: center;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+}
+
+#ProfilePic {
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.Main {
+    margin-top: 50px;
+    padding: 30px;
+    max-width: 1440px;
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0px;
+background-image: url("RZ5TBtD.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+font-family: 'Roboto', sans-serif;
+font-size: 14pt;
+text-size-adjust: 300%;
+}
+
+#googlemap {
+    background-color: crimson;
+}
+
+.Portfo a {
+    padding: 15px;
+    display: inline-block;
+}
+
+.Content {
+    text-align: center;
+}
